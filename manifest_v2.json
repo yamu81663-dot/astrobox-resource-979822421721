@@ -5,13 +5,14 @@
     "name": "随变",
     "description": "随变——随便变换你的时钟，彰显你的个性。",
     "preview": [
-      "media/无标题41_20261109225616.png",
+      "media/无标题41_20261110183302.png",
+      "media/无标题41_20261110181650.png",
       "media/编辑模式-扩展菜单-更新版.png",
       "media/没有内容 (1).png",
       "media/没有内容.png"
     ],
     "icon": "media/表盘图标.png",
-    "cover": "media/无标题41_20261110003648.png",
+    "cover": "media/无标题41_20261110180631.png",
     "author": [
       {
         "name": "bandbbs_2052034",
@@ -19,12 +20,18 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "QQ交流群",
+      "url": "https://qm.qq.com/q/83klhzeUve",
+      "icon": "chat-circle-dots"
+    }
+  ],
   "downloads": {
     "xmb10p": {
-      "version": "0.0.0",
+      "version": "1.0.0",
       "file_name": "downloads/随变.face",
-      "versionCode": 0
+      "versionCode": 65536
     }
   },
   "ext": {
