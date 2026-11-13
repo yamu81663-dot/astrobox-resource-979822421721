@@ -29,14 +29,14 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "file_name": "downloads/随变.face",
-      "versionCode": 65536
+      "versionCode": 65537
     },
     "xmb9p": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "file_name": "downloads/随变-xmb9p.face",
-      "versionCode": 65536
+      "versionCode": 65537
     }
   },
   "ext": {
