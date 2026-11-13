@@ -32,6 +32,11 @@
       "version": "1.0.0",
       "file_name": "downloads/随变.face",
       "versionCode": 65536
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/随变-xmb9p.face",
+      "versionCode": 65536
     }
   },
   "ext": {
