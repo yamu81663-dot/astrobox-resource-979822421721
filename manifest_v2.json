@@ -29,14 +29,26 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "file_name": "downloads/随变.face",
-      "versionCode": 65537
+      "versionCode": 65538,
+      "updatelogs": [
+        {
+          "version": "1.0.2",
+          "content": "重构了拉伸的实现方式\n优化了编辑状态的流畅性\n修复了框选的显示异常"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "file_name": "downloads/随变-xmb9p.face",
-      "versionCode": 65537
+      "versionCode": 65538,
+      "updatelogs": [
+        {
+          "version": "1.0.2",
+          "content": "重构了拉伸的实现方式\n优化了编辑状态的流畅性\n修复了框选的显示异常"
+        }
+      ]
     }
   },
   "ext": {
