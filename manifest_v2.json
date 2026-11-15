@@ -29,10 +29,14 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "file_name": "downloads/随变.face",
-      "versionCode": 65538,
+      "versionCode": 65539,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "增加了适配RW6的版本\n修复了部分机型下提示缺失的问题"
+        },
         {
           "version": "1.0.2",
           "content": "重构了拉伸的实现方式\n优化了编辑状态的流畅性\n修复了框选的显示异常"
@@ -40,13 +44,28 @@
       ]
     },
     "xmb9p": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "file_name": "downloads/随变-xmb9p.face",
-      "versionCode": 65538,
+      "versionCode": 65539,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "增加了适配RW6的版本\n修复了部分机型下提示缺失的问题"
+        },
         {
           "version": "1.0.2",
           "content": "重构了拉伸的实现方式\n优化了编辑状态的流畅性\n修复了框选的显示异常"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.0.3",
+      "file_name": "downloads/随变-xmrw6.face",
+      "versionCode": 65539,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "增加了适配RW6的版本\n修复了部分机型下提示缺失的问题"
         }
       ]
     }
