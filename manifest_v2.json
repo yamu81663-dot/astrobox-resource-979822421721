@@ -29,9 +29,9 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "file_name": "downloads/随变.face",
-      "versionCode": 65539,
+      "versionCode": 65540,
       "updatelogs": [
         {
           "version": "1.0.3",
@@ -44,9 +44,9 @@
       ]
     },
     "xmb9p": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "file_name": "downloads/随变-xmb9p.face",
-      "versionCode": 65539,
+      "versionCode": 65540,
       "updatelogs": [
         {
           "version": "1.0.3",
@@ -59,9 +59,9 @@
       ]
     },
     "xmrw6": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "file_name": "downloads/随变-xmrw6.face",
-      "versionCode": 65539,
+      "versionCode": 65540,
       "updatelogs": [
         {
           "version": "1.0.3",
@@ -71,6 +71,7 @@
     }
   },
   "ext": {
+    "enableAstroBoxCreatorFeatures": true,
     "bundledResources": {
       "required": [
         {
