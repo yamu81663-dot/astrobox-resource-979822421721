@@ -29,10 +29,14 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "1.0.4",
+      "version": "1.0.5",
       "file_name": "downloads/随变.face",
-      "versionCode": 65540,
+      "versionCode": 65541,
       "updatelogs": [
+        {
+          "version": "1.0.5",
+          "content": "增加了日期栏设置菜单，支持更改日期位置，数据显示开关，以及自定义数据\n优化了拉伸长度的判定\n修复了部分情况下时钟显示不正确的问题"
+        },
         {
           "version": "1.0.3",
           "content": "增加了适配RW6的版本\n修复了部分机型下提示缺失的问题"
@@ -44,10 +48,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.0.4",
+      "version": "1.0.5",
       "file_name": "downloads/随变-xmb9p.face",
-      "versionCode": 65540,
+      "versionCode": 65541,
       "updatelogs": [
+        {
+          "version": "1.0.5",
+          "content": "增加了日期栏设置菜单，支持更改日期位置，数据显示开关，以及自定义数据\n优化了拉伸长度的判定\n修复了部分情况下时钟显示不正确的问题"
+        },
         {
           "version": "1.0.3",
           "content": "增加了适配RW6的版本\n修复了部分机型下提示缺失的问题"
@@ -59,10 +67,14 @@
       ]
     },
     "xmrw6": {
-      "version": "1.0.4",
+      "version": "1.0.5",
       "file_name": "downloads/随变-xmrw6.face",
-      "versionCode": 65540,
+      "versionCode": 65541,
       "updatelogs": [
+        {
+          "version": "1.0.5",
+          "content": "增加了日期栏设置菜单，支持更改日期位置，数据显示开关，以及自定义数据\n优化了拉伸长度的判定\n修复了部分情况下时钟显示不正确的问题"
+        },
         {
           "version": "1.0.3",
           "content": "增加了适配RW6的版本\n修复了部分机型下提示缺失的问题"
